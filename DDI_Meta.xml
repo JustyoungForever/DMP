@@ -1,0 +1,897 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ddi:FragmentInstance xmlns:r="ddi:reusable:3_2" xmlns:ddi="ddi:instance:3_2">
+  <ddi:TopLevelReference>
+    <r:Agency>int.example</r:Agency>
+    <r:ID>4fa9fe6b-6d67-40ff-bd75-53d4e9c546b6</r:ID>
+    <r:Version>1</r:Version>
+    <r:TypeOfObject>PhysicalInstance</r:TypeOfObject>
+  </ddi:TopLevelReference>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <PhysicalInstance isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.1749246Z" xmlns="ddi:physicalinstance:3_2">
+      <r:URN>urn:ddi:int.example:4fa9fe6b-6d67-40ff-bd75-53d4e9c546b6:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>4fa9fe6b-6d67-40ff-bd75-53d4e9c546b6</r:ID>
+      <r:Version>1</r:Version>
+      <r:Citation>
+        <r:Title>
+          <r:String xml:lang="zh-CN">NOPD_Misconduct_Complaints</r:String>
+        </r:Title>
+      </r:Citation>
+      <r:DataRelationshipReference>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>4f8c01aa-8afe-476d-abb0-f162cb8539e9</r:ID>
+        <r:Version>1</r:Version>
+        <r:TypeOfObject>DataRelationship</r:TypeOfObject>
+      </r:DataRelationshipReference>
+    </PhysicalInstance>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <DataRelationship isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.1949246Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:4f8c01aa-8afe-476d-abb0-f162cb8539e9:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>4f8c01aa-8afe-476d-abb0-f162cb8539e9</r:ID>
+      <r:Version>1</r:Version>
+      <LogicalRecord isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:94013e47-5ba8-4cc4-b258-648d178c1917:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>94013e47-5ba8-4cc4-b258-648d178c1917</r:ID>
+        <r:Version>1</r:Version>
+        <VariablesInRecord>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>e7fcaae5-c7c5-46a3-b406-d65384507d9b</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>9381f112-218f-4b97-9111-5eea3ceb1222</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>c24596a2-b903-4936-8d9d-198e792581d3</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>8f736aa2-31e7-4444-9df1-09c9cece4827</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>e1468f4b-ee14-486e-889a-c9af85e3f1ec</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>43c78f3b-f750-458a-9312-65e45a04646a</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>1595a7e6-5bf1-4899-aaf8-983b6e0b8a07</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>90a9da6a-0ff3-4f0c-abac-d6429bdaf1fe</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>8bee90e4-eb3b-4ee2-bf54-ff259465fc1d</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>598dbf53-e59b-4621-bf68-f433530065e0</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>379750eb-1815-41bf-8fb1-577c97aaf8d6</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>ea0527f9-be0e-4103-adf4-08152c93cef2</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>96e9417d-a274-45e7-9adc-cdf6d5f99d80</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>4a574e0b-7149-4242-82c5-0bb6bb5c7601</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>7421c4f3-344c-41ca-9207-6be0956d9f3d</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>77bd2232-3a01-4f0d-ba5b-c95febeff48a</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>39709967-153e-455d-b204-23a5309d594d</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>83cd5966-3863-4891-9551-a9d93cdaa818</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>f142c29c-253c-45fe-88fb-2bcc3a5c175a</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>e7b6fdb6-e5bb-44cf-80b0-2390c6d2b7c3</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>f950be51-56f0-48df-9635-9ba1d6c1ce43</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>00f2633b-5c51-4198-b497-74c4236382d0</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>2e5d4a3e-0264-4e4b-a6da-fab95e662f3c</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+          <VariableUsedReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>d361eb09-57a7-4e5a-a2dd-04865b93f32b</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>Variable</r:TypeOfObject>
+          </VariableUsedReference>
+        </VariablesInRecord>
+      </LogicalRecord>
+    </DataRelationship>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4219247Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:e7fcaae5-c7c5-46a3-b406-d65384507d9b:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>e7fcaae5-c7c5-46a3-b406-d65384507d9b</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">In_Type</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Incident Type</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="zh-CN">Art der Beschwerde</r:Content>
+      </r:Description>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4269248Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:9381f112-218f-4b97-9111-5eea3ceb1222:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>9381f112-218f-4b97-9111-5eea3ceb1222</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Com_Tr_Num</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Complaint Tracking Number</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4289249Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:c24596a2-b903-4936-8d9d-198e792581d3:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>c24596a2-b903-4936-8d9d-198e792581d3</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Date_Com</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Date Complaint Occurred</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:DateTimeRepresentation blankIsMissingValue="false">
+          <r:DateTypeCode>Date</r:DateTypeCode>
+        </r:DateTimeRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4299247Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:8f736aa2-31e7-4444-9df1-09c9cece4827:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>8f736aa2-31e7-4444-9df1-09c9cece4827</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Date_Com_Re</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Date Complaint Received by NOPD (PIB)</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:DateTimeRepresentation blankIsMissingValue="false">
+          <r:DateTypeCode>Date</r:DateTypeCode>
+        </r:DateTimeRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4329255Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:e1468f4b-ee14-486e-889a-c9af85e3f1ec:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>e1468f4b-ee14-486e-889a-c9af85e3f1ec</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Date_Complete</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Date Complaint Investigation Complete</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:DateTimeRepresentation blankIsMissingValue="false">
+          <r:DateTypeCode>Date</r:DateTypeCode>
+        </r:DateTimeRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.435925Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:43c78f3b-f750-458a-9312-65e45a04646a:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>43c78f3b-f750-458a-9312-65e45a04646a</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Com_Class</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Complaint classification</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4379242Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:1595a7e6-5bf1-4899-aaf8-983b6e0b8a07:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>1595a7e6-5bf1-4899-aaf8-983b6e0b8a07</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">In_Status</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Investigation status</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="zh-CN">Status aktueller Beschwerden</r:Content>
+      </r:Description>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4399248Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:90a9da6a-0ff3-4f0c-abac-d6429bdaf1fe:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>90a9da6a-0ff3-4f0c-abac-d6429bdaf1fe</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Disp</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Disposition</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="zh-CN">Das Ergebnis der Beschwerde</r:Content>
+      </r:Description>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4419261Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:8bee90e4-eb3b-4ee2-bf54-ff259465fc1d:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>8bee90e4-eb3b-4ee2-bf54-ff259465fc1d</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">B_Com</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Bureau of Complainant</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4449246Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:598dbf53-e59b-4621-bf68-f433530065e0:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>598dbf53-e59b-4621-bf68-f433530065e0</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Div_Com</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Division of Complainant</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.446926Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:379750eb-1815-41bf-8fb1-577c97aaf8d6:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>379750eb-1815-41bf-8fb1-577c97aaf8d6</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Un_Com</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Unit of Complainant</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4519244Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:ea0527f9-be0e-4103-adf4-08152c93cef2:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>ea0527f9-be0e-4103-adf4-08152c93cef2</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Detail</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Unit Additional Details of Complainant</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4549247Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:96e9417d-a274-45e7-9adc-cdf6d5f99d80:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>96e9417d-a274-45e7-9adc-cdf6d5f99d80</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">WorkSta</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Working Status of Complainant</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4579247Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:4a574e0b-7149-4242-82c5-0bb6bb5c7601:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>4a574e0b-7149-4242-82c5-0bb6bb5c7601</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">ShiftCom</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Shift of Complainant</r:Content>
+      </r:Label>
+      <r:Description>
+        <r:Content xml:lang="zh-CN">Wechsel des Beschwerdeführers</r:Content>
+      </r:Description>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4609253Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:7421c4f3-344c-41ca-9207-6be0956d9f3d:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>7421c4f3-344c-41ca-9207-6be0956d9f3d</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Rule</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Rule Violation</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4649255Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:77bd2232-3a01-4f0d-ba5b-c95febeff48a:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>77bd2232-3a01-4f0d-ba5b-c95febeff48a</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Par</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Paragraph Violation</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4689245Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:39709967-153e-455d-b204-23a5309d594d:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>39709967-153e-455d-b204-23a5309d594d</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">UnOff_ID</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Unique Officer Allegation ID</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:NumericRepresentation blankIsMissingValue="false">
+          <r:NumericTypeCode>Integer</r:NumericTypeCode>
+        </r:NumericRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4719246Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:83cd5966-3863-4891-9551-a9d93cdaa818:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>83cd5966-3863-4891-9551-a9d93cdaa818</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Off_R_Eth</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Officer Race Ethnicity</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:TextRepresentation blankIsMissingValue="false" />
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4759242Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:f142c29c-253c-45fe-88fb-2bcc3a5c175a:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>f142c29c-253c-45fe-88fb-2bcc3a5c175a</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Off_Gen</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Officer Gender</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:CodeRepresentation blankIsMissingValue="false">
+          <r:CodeListReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>616a1fc3-45f5-4375-b59f-dcaab54de9a5</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>CodeList</r:TypeOfObject>
+          </r:CodeListReference>
+        </r:CodeRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <CodeList isUniversallyUnique="true" versionDate="2023-07-25T22:18:14.8118005Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:616a1fc3-45f5-4375-b59f-dcaab54de9a5:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>616a1fc3-45f5-4375-b59f-dcaab54de9a5</r:ID>
+      <r:Version>1</r:Version>
+      <CodeListName>
+        <r:String xml:lang="zh-CN">Officer Gender</r:String>
+      </CodeListName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Officer Gender</r:Content>
+      </r:Label>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:49838b41-c9b4-4fcf-a81e-f983a24a6635:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>49838b41-c9b4-4fcf-a81e-f983a24a6635</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>01bfbedf-5865-43c7-88c3-6a5c7d8be907</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>F</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:ee6cb9c8-cefe-48af-b6e3-532975fe65e9:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>ee6cb9c8-cefe-48af-b6e3-532975fe65e9</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>d2b8f470-ac95-43cb-a562-d48da63a2754</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>M</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:8488e949-9962-4137-85e6-25789a372953:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>8488e949-9962-4137-85e6-25789a372953</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>3f220042-59a2-4529-ba12-efd8d483f7dc</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>U</r:Value>
+      </Code>
+    </CodeList>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:18:14.8138016Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:01bfbedf-5865-43c7-88c3-6a5c7d8be907:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>01bfbedf-5865-43c7-88c3-6a5c7d8be907</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Female</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:18:14.8138016Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:d2b8f470-ac95-43cb-a562-d48da63a2754:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>d2b8f470-ac95-43cb-a562-d48da63a2754</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Male</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:18:14.8138016Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:3f220042-59a2-4529-ba12-efd8d483f7dc:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>3f220042-59a2-4529-ba12-efd8d483f7dc</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Unknown</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4819246Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:e7b6fdb6-e5bb-44cf-80b0-2390c6d2b7c3:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>e7b6fdb6-e5bb-44cf-80b0-2390c6d2b7c3</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Off_Age</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Officer Age</r:Content>
+      </r:Label>
+      <VariableRepresentation>
+        <r:NumericRepresentation blankIsMissingValue="false">
+          <r:NumberRange>
+            <r:Low isInclusive="false">18</r:Low>
+            <r:High isInclusive="false">100</r:High>
+          </r:NumberRange>
+          <r:NumericTypeCode>Integer</r:NumericTypeCode>
+        </r:NumericRepresentation>
+        <r:MeasurementUnit>Year</r:MeasurementUnit>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.485925Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:f950be51-56f0-48df-9635-9ba1d6c1ce43:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>f950be51-56f0-48df-9635-9ba1d6c1ce43</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Off_Year</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Officer years of service</r:Content>
+      </r:Label>
+      <VariableRepresentation>
+        <r:NumericRepresentation blankIsMissingValue="false">
+          <r:NumericTypeCode>Integer</r:NumericTypeCode>
+        </r:NumericRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4909246Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:00f2633b-5c51-4198-b497-74c4236382d0:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>00f2633b-5c51-4198-b497-74c4236382d0</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Com_Gen</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Complainant Gender</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:CodeRepresentation blankIsMissingValue="false">
+          <r:CodeListReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>616a1fc3-45f5-4375-b59f-dcaab54de9a5</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>CodeList</r:TypeOfObject>
+          </r:CodeListReference>
+        </r:CodeRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.4959252Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:2e5d4a3e-0264-4e4b-a6da-fab95e662f3c:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>2e5d4a3e-0264-4e4b-a6da-fab95e662f3c</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Com_Eth</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Complainant Ethnicity</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:CodeRepresentation blankIsMissingValue="false">
+          <r:CodeListReference>
+            <r:Agency>int.example</r:Agency>
+            <r:ID>839149ff-7b6e-4386-8b09-5c5c7c639783</r:ID>
+            <r:Version>1</r:Version>
+            <r:TypeOfObject>CodeList</r:TypeOfObject>
+          </r:CodeListReference>
+        </r:CodeRepresentation>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <CodeList isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:839149ff-7b6e-4386-8b09-5c5c7c639783:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>839149ff-7b6e-4386-8b09-5c5c7c639783</r:ID>
+      <r:Version>1</r:Version>
+      <CodeListName>
+        <r:String xml:lang="zh-CN">Complainant Ethnicity</r:String>
+      </CodeListName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Complainant Ethnicity</r:Content>
+      </r:Label>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:00b964e0-4c89-4c12-ab8b-6a8c837b08f6:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>00b964e0-4c89-4c12-ab8b-6a8c837b08f6</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>677a9088-f5fb-4c08-9387-caf9cf399b98</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>A</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:53bedec7-fb84-4f6e-adb6-833b06b08398:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>53bedec7-fb84-4f6e-adb6-833b06b08398</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>69fa7b10-c45b-484b-af19-a73e2ebc9620</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>B</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:2838c81b-a670-4fff-be8b-9c80fc24d60d:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>2838c81b-a670-4fff-be8b-9c80fc24d60d</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>41480824-f9c8-4a63-b3fc-ea5f026608fa</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>H</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:5201f50a-6572-4d66-8175-15b9cc6530b8:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>5201f50a-6572-4d66-8175-15b9cc6530b8</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>52a9e403-3670-48cc-8d56-17edd7bf5cf4</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>I</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:0901a62c-5a5f-43b1-89b7-3b89408cd770:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>0901a62c-5a5f-43b1-89b7-3b89408cd770</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>76ef3491-87dd-4014-ae6a-3e0cb944fa24</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>U</r:Value>
+      </Code>
+      <Code isUniversallyUnique="true">
+        <r:URN>urn:ddi:int.example:d67832c2-1ad6-47a0-bbc4-f6cd5cff07d2:1</r:URN>
+        <r:Agency>int.example</r:Agency>
+        <r:ID>d67832c2-1ad6-47a0-bbc4-f6cd5cff07d2</r:ID>
+        <r:Version>1</r:Version>
+        <r:CategoryReference>
+          <r:Agency>int.example</r:Agency>
+          <r:ID>c7972fcd-b679-4d29-adb8-9b0d174a5b88</r:ID>
+          <r:Version>1</r:Version>
+          <r:TypeOfObject>Category</r:TypeOfObject>
+        </r:CategoryReference>
+        <r:Value>W</r:Value>
+      </Code>
+    </CodeList>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:677a9088-f5fb-4c08-9387-caf9cf399b98:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>677a9088-f5fb-4c08-9387-caf9cf399b98</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Asian</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:69fa7b10-c45b-484b-af19-a73e2ebc9620:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>69fa7b10-c45b-484b-af19-a73e2ebc9620</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Black</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:41480824-f9c8-4a63-b3fc-ea5f026608fa:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>41480824-f9c8-4a63-b3fc-ea5f026608fa</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Hispanic</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:52a9e403-3670-48cc-8d56-17edd7bf5cf4:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>52a9e403-3670-48cc-8d56-17edd7bf5cf4</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Indian</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:76ef3491-87dd-4014-ae6a-3e0cb944fa24:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>76ef3491-87dd-4014-ae6a-3e0cb944fa24</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Unknown</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Category isUniversallyUnique="true" versionDate="2023-07-25T22:25:20.5010835Z" isMissing="false" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:c7972fcd-b679-4d29-adb8-9b0d174a5b88:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>c7972fcd-b679-4d29-adb8-9b0d174a5b88</r:ID>
+      <r:Version>1</r:Version>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">White</r:Content>
+      </r:Label>
+    </Category>
+  </ddi:Fragment>
+  <ddi:Fragment xmlns:r="ddi:reusable:3_2">
+    <Variable isUniversallyUnique="true" versionDate="2023-07-25T21:27:23.5009267Z" xmlns="ddi:logicalproduct:3_2">
+      <r:URN>urn:ddi:int.example:d361eb09-57a7-4e5a-a2dd-04865b93f32b:1</r:URN>
+      <r:Agency>int.example</r:Agency>
+      <r:ID>d361eb09-57a7-4e5a-a2dd-04865b93f32b</r:ID>
+      <r:Version>1</r:Version>
+      <VariableName>
+        <r:String xml:lang="zh-CN">Com_Age</r:String>
+      </VariableName>
+      <r:Label>
+        <r:Content xml:lang="zh-CN">Complainant Age</r:Content>
+      </r:Label>
+      <VariableRepresentation additivity="NonAdditive">
+        <r:NumericRepresentation blankIsMissingValue="false">
+          <r:NumberRange>
+            <r:Low isInclusive="false">0</r:Low>
+            <r:High isInclusive="false">100</r:High>
+          </r:NumberRange>
+          <r:NumericTypeCode>Integer</r:NumericTypeCode>
+        </r:NumericRepresentation>
+        <r:MeasurementUnit>Year</r:MeasurementUnit>
+      </VariableRepresentation>
+    </Variable>
+  </ddi:Fragment>
+</ddi:FragmentInstance>
