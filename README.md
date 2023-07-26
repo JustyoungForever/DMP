@@ -17,3 +17,4 @@ Die Daten in jeder Spalte werden bereinigt und der Nullwert wird interpoliert. D
 ## Findable
 Nach Abschluss der Hauptanalyse habe ich eine ORCID registriert, um den Datensatz öffentlich zugänglich zu machen, der Link lautet: https://orcid.org/0009-0007-8074-0533
 ## License
+NOPD_Misconduct_Complaints © 2023 by Zhiyuan Pan is licensed under Attribution 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
